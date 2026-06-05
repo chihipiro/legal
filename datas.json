@@ -1,0 +1,23 @@
+{
+  "legal_version": "1.0.0",
+
+  "licenses": {
+    "common_eula": {
+      "version": "1.0.0",
+      "sha512": "baad534ceefec2da94bd234a2e7c319a53ffb2c0e8d3558a4fd29afea84e51cffa290729dc8c1019502963f8809226329b318540400aee3643432fb568af12fc",
+      "path": "common/Common-EULA.txt"
+    }
+  },
+
+  "products": {
+    "richstatus": {
+      "app_version": "1.0.0",
+
+      "license": {
+        "version": "1.0.0",
+        "sha512": "acca209e713ed0e68fa7526b7ec9ca82d7c81c2a0fc53e2c36af0381497997d5999ce1023becc0cf82db7d114014c1ca9929500396225d735213e547bec0d678",
+        "path": "terms/richstatus/RichStatus-Additional-Terms.txt"
+      }
+    }
+  }
+}
