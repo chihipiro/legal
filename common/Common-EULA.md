@@ -4,7 +4,7 @@ Version 1.0.0
 
 Copyright (c) Chihipiro
 
-[Official TXT version](Common-EULA.txt)
+[Official TXT version](common\Common-EULA.txt)
 
 ---
 

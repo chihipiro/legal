@@ -4,7 +4,7 @@ Version 1.0.0
 
 This document is an extension of the Common End User License Agreement (Common EULA).
 
-[Official TXT version](.\terms\richstatus\RichStatus-Additional-Terms.txt)
+[Official TXT version](terms\richstatus\RichStatus-Additional-Terms.txt)
 
 ---
 
