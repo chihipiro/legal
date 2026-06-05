@@ -4,6 +4,8 @@ Version 1.0.0
 
 Copyright (c) Chihipiro
 
+[Official TXT version](Common-EULA.txt)
+
 ---
 
 ## 第1条（適用）

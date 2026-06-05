@@ -63,3 +63,6 @@ Copyright (c) Chihipiro
 
 第10条（準拠法）
 本契約は日本法に準拠します。
+
+NOTE:
+This TXT file is the official legal version of the Common EULA.
