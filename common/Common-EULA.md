@@ -1,6 +1,6 @@
 # Common End User License Agreement (Common EULA)
 
-Version 1.0.0
+Version 1.0.1
 
 Copyright (c) Chihipiro
 
@@ -69,3 +69,7 @@ Copyright (c) Chihipiro
 ## 第10条（準拠法）
 
 本契約は日本法に準拠します。
+
+## 第11条（分離可能性）
+
+本契約の一部が無効または執行不能と判断された場合でも、その他の条項は引き続き完全な効力を有するものとします。
