@@ -3,8 +3,8 @@
 
   "licenses": {
     "common_eula": {
-      "version": "1.0.0",
-      "sha512": "baad534ceefec2da94bd234a2e7c319a53ffb2c0e8d3558a4fd29afea84e51cffa290729dc8c1019502963f8809226329b318540400aee3643432fb568af12fc",
+      "version": "1.0.1",
+      "sha512": "1f6af5ec77a710350d8ec3fa0b0f099f875552b35d685e55d201d72e6e05990abd292b5eb6ed06c4aba66a63d0ceb589e638fe403ac50d31f4045b04d40a9126",
       "path": "common/Common-EULA.txt"
     }
   },
